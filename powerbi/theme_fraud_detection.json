@@ -1,0 +1,22 @@
+{
+  "name": "Fraud Detection Portfolio",
+  "dataColors": ["#2563EB", "#0891B2", "#F59E0B", "#DC2626", "#16A34A", "#7C3AED"],
+  "background": "#F8FAFC",
+  "foreground": "#0F172A",
+  "tableAccent": "#2563EB",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{"show": true, "fontFamily": "Segoe UI Semibold", "fontSize": 12, "fontColor": {"solid": {"color": "#0F172A"}}}],
+        "background": [{"show": true, "color": {"solid": {"color": "#FFFFFF"}}, "transparency": 0}],
+        "border": [{"show": true, "color": {"solid": {"color": "#CBD5E1"}}, "radius": 6}]
+      }
+    }
+  },
+  "textClasses": {
+    "title": {"fontFace": "Segoe UI Semibold", "color": "#0F172A"},
+    "label": {"fontFace": "Segoe UI", "color": "#334155"},
+    "callout": {"fontFace": "Segoe UI Semibold", "color": "#0F172A"}
+  }
+}
+
