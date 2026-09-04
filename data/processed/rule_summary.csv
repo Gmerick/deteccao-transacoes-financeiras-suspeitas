@@ -1,0 +1,8 @@
+rule,transactions_flagged,weight
+Valor atípico (z-score),610,30
+Alto valor absoluto,502,20
+Alta velocidade,301,25
+Horário incomum,498,20
+Novo dispositivo + local,600,25
+Valor arredondado,148,10
+Possível fracionamento,184,20
